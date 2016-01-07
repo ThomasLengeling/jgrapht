@@ -1,11 +1,11 @@
 /*
 Simple usage of jgrapht
-based on DirectedGraphDemo 
-https://github.com/jgrapht/jgrapht/wiki/DirectedGraphDemo
-
-Thomas Sanchez Lengeling
-*/
+ based on DirectedGraphDemo 
+ https://github.com/jgrapht/jgrapht/wiki/DirectedGraphDemo
  
+ Thomas Sanchez Lengeling
+ */
+
 import java.util.List;
 import org.jgrapht.alg.*;
 import org.jgrapht.*;
@@ -22,7 +22,6 @@ void setup() {
 }
 
 void draw() {
-  
 }
 
 
